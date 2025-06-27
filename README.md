@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 ## Docker Lab Assignment
 
@@ -44,3 +45,6 @@ FROM node:18-slim
 
 Good luck!
 
+=======
+# ahmed
+>>>>>>> fcd68c20417b3cb148130d2949e452002b91b710
